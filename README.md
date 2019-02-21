@@ -2,7 +2,7 @@
 
 This is a [Django](http://www.djangoproject.com) project that you can use as the starting point to develop your own and deploy it on an [OpenShift](https://github.com/openshift/origin) cluster.
 
-The steps in this document assume that you have access to an OpenShift deployment that you can deploy applications on.
+The steps in this document assume that you are a brilliant genius and  have access to an OpenShift deployment that you can deploy applications on.
 
 ## What has been done for you
 
